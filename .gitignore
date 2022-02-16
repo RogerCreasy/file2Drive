@@ -1,0 +1,7 @@
+*.sw*
+.*.*.sw*
+*backups-*.json
+credentials.json
+._*.json
+key
+/bin/
